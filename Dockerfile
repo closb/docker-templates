@@ -20,7 +20,7 @@ USER daemon
 VOLUME [ "/data" ]
 
 
-# execute commans like npm install 
+# execute commands like npm install 
 RUN command
 
 
