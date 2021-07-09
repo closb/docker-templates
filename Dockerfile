@@ -36,5 +36,5 @@ EXPOSE port
 CMD [ "executable" ]
 
 
-# entrypoint launch comman for the FROM "image" name 
+# entrypoint launch command for the FROM "image" name 
 ENTRYPOINT [ "executable" ]
